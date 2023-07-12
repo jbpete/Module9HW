@@ -6,22 +6,22 @@
 - [Testing](#testing)
 - [Questions](#questions)
 
-# Menu App
+# Module 9 - ReadMe Generator
 
 ## Description
-This application allows the user to create their own custom menus for their personal parties or events.
+It is an application that generates a professional read me just off a couple prompts
 
 ## Installation
-Use install the application by cloning down the project repository.
+You clone it down from Git hub
 
 ## Usage
-Free Use
+Usage, im not sure what this is really
 
 ## Contributing
-I was the sole contributor. 
+Contribute all you want
 
 ## Tests
-You try and generate a menu with the various user inputs and see if the menu is displayed properly.
+You try and create a read me like I am doing right now and see what the output is
 
 ## License
 MIT
@@ -30,4 +30,6 @@ MIT
 
 $https://github.com/jbpete
 
-jackpeterson99528@gmail.com
+test@gmail.com
+
+Walkthrough video link: https://www.loom.com/share/addfd87363974d87bf43e2890647ae11
